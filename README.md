@@ -13,7 +13,7 @@
 - The [`modeling`](./exploratory/README.md) directory contains scripts for Modelling
 
 
-The Final Winning Solution was a stack of Model_1 and Model_2 in the modeling directory.
+The Final Winning Submission was a stack of Model_1 and Model_2 in the modeling directory.
 
 
 
